@@ -1,4 +1,4 @@
-Cars Table
+# Cars Table
 Stores information about each vehicle available in GranTourisma AutoHaus inventory.
 
 | Column Name | Data Type | Description                                 |
