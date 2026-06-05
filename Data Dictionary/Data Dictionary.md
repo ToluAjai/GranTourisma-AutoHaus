@@ -9,7 +9,7 @@ Stores information about each vehicle available in GranTourisma AutoHaus invento
 | car_color   | VARCHAR   | Colour of the vehicle                       |
 | unit_price  | DECIMAL   | Price of a single unit of the car           |
 
-Customers Table
+# Customers Table
 Contains details about customers who purchase vehicles.
 
 | Column Name | Data Type | Description                         |
@@ -21,7 +21,7 @@ Contains details about customers who purchase vehicles.
 | email       | VARCHAR   | Customer email address              |
 | city        | VARCHAR   | City where the customer is located  |
 
-Orders Table
+# Orders Table
 Records all car purchases made by customers.
 
 | Column Name   | Data Type | Description                            |
