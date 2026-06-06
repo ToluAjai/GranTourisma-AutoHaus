@@ -1,5 +1,5 @@
 # GranTourisma AutoHaus - SQL Analytics Project
-GranTourisma AutoHaus is a car dealership used to demonstrate real‑world SQL analytics. This project explores sales performance, customer behaviour, product trends, and geographic insights. The project uses various SQL techniques like Joins, WINDOW functions, CASE statements and CTEs to produce clean, reproducible insights.
+GranTourisma AutoHaus is a car dealership used to demonstrate real‑world SQL analytics. This project explores sales performance, customer behaviour, product trends, and geographic insights from May 2023 to Jun 2024. The project uses various SQL techniques like Joins, WINDOW functions, CASE statements and CTEs to produce clean, reproducible insights.
 
 Note: All data used in this project is fully synthetic and was generated solely for learning and demonstration purposes. No real customer, vehicle, or financial information is included.
 
